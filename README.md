@@ -43,12 +43,22 @@ The Adidas Dataset wasn't messy, it had no inconsistent data. Data was loaded in
 
 
 **Dashboard Insights**
-**- Q1 Overview Performance**
-1. Sales: +187.20% YoY(massive jump. More than doubled)
-2. Quantity Sold: +260.04% YoY(selling way more units)
+
+**- Q1 Overall Performance**
+1. Sales: +187.20% YoY(massive jump)
+2. Quantity: +260.04% YoY(selling way more units)
 3. Profit: +187.16% YoY(profit grew almost at the same rate as sales. Good)
 4. Profit Margin: -0.01% YoY(Tiny dip. Means costs grew just a bit faster than sales, but basically flat. Not a red flag)
 5. Takeaway: This was a volume-driven growth quarter. More sales + more units = more profit
 
 January was the highest sales by month with $71M, Outlet was the highest by sales method with $89M, West was the highest sales by region $76M, West Gear($68M top retailer), Men's Street Footwear($43M top product), the West region beat target with 231%, North west missed target with 88%, while Midwest, South and Southeast launched a new market. Meaning 3 out of 5 regions are "New market" = 0% benchmark. That means Q1 was heavily focused on expansion. 
 
+
+**- Q2 Overall Performance**
+1. Sales: +251.98% YoY(more than doubled)
+2. Quantity: +373.70% YoY(massive unit growth)
+3. Profit: +251.92% YoY(profit kept pace with sales. Good control)
+4. Profit Margin: -0.02%(Tiny dip again. Selling way more, but costs ticked up slightly)
+5. Takeaway: Q2 was a scale quarter. Made 3x'd volume and still protected profit
+
+May($81M highest month), In-store($102M highest by sales method), West($85M highest region), West Gear($67M top retailer), Men's Street Footwear($53M), Southeast beat target with 335%, Northeast beat target with 237%, West beat target with 201%, while Midwest and South launched a new market. 3 regions beat target by 200%+(expansion is working). 
